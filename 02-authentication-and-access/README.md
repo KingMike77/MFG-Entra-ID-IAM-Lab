@@ -139,7 +139,7 @@ On-premises enforcement depends on the Domain Controller Agent being installed o
 
 ## Lessons from this phase
 
-- **Report-only results are not in the obvious column.** `ConditionalAccessStatus` only reflects enforced policies and showed "not applied" for everything. The per-policy report-only results are in `ConditionalAccessPolicies` ([Phase 5](../05-monitoring-and-workload-identity/README.md)).
+- **Report-only results are in the per-policy column.** The overall `ConditionalAccessStatus` showed "not applied" for the sign-ins checked here; the per-policy report-only results are in `ConditionalAccessPolicies` ([Phase 5](../05-monitoring-and-workload-identity/README.md)).
 - **A compliant-device policy needs a working compliance path.** Without a configured and validated device-compliance solution, the lab's admin sign-in evaluated as non-compliant. Enforcing CA004 without first establishing a compliant-device path could block legitimate admin access.
 - **The portal cannot flag a clean user as compromised.** The Graph `confirmCompromised` API was used for the demonstration.
 - **The portal rejected `MFG` as too short** (each word must be at least 4 characters); `MFGBank` was accepted instead.
