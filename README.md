@@ -5,7 +5,7 @@ A hybrid identity lab for **Mensah Financial Group (MFG)**, a fictional regional
 It is built on Microsoft Entra ID plus an on-premises Active Directory in VMware, and organized around the **SC-300 (Microsoft Identity and Access Administrator)** objectives.
 
 **Author:** Michael Mensah
-**Timeline:** Started in September 2026; most of the build was done between Oct 13 and Oct 18, 2026
+**Timeline:** September 17th, 2026 - October 18th, 2026
 
 > **About the evidence.** Several features used here (risk-based Conditional Access, Identity Protection, PIM, entitlement management, access reviews) need Entra ID P2 or Governance licensing. They were available through a Microsoft 365 E5 trial that ended on Oct 16, 2026, so those parts are documented with screenshots and log queries captured while the trial was live. The tenant now runs Entra ID Free and cannot run those features.
 
