@@ -1,0 +1,41 @@
+DisplayName,GivenName,Surname,MailNickname,UserPrincipalName,JobTitle,Department,City,EmployeeType,UsageLocation,ManagerUPN
+"Whitfield, Eleanor",Eleanor,Whitfield,eleanor.whitfield,eleanor.whitfield@MensahFinancialGroup.onmicrosoft.com,Chief Executive Officer,Executive,Corporate,Employee,US,
+"Delaney, Marcus",Marcus,Delaney,marcus.delaney,marcus.delaney@MensahFinancialGroup.onmicrosoft.com,Chief Financial Officer,Executive,Corporate,Employee,US,eleanor.whitfield@MensahFinancialGroup.onmicrosoft.com
+"Raman, Priya",Priya,Raman,priya.raman,priya.raman@MensahFinancialGroup.onmicrosoft.com,Chief Risk Officer,Executive,Corporate,Employee,US,eleanor.whitfield@MensahFinancialGroup.onmicrosoft.com
+"Okafor, Jonathan",Jonathan,Okafor,jonathan.okafor,jonathan.okafor@MensahFinancialGroup.onmicrosoft.com,Chief Information Officer,Executive,Corporate,Employee,US,eleanor.whitfield@MensahFinancialGroup.onmicrosoft.com
+"Alvarez, Teresa",Teresa,Alvarez,teresa.alvarez,teresa.alvarez@MensahFinancialGroup.onmicrosoft.com,Director of Retail Banking,Retail Banking,Downtown,Employee,US,eleanor.whitfield@MensahFinancialGroup.onmicrosoft.com
+"Brooks, Daniel",Daniel,Brooks,daniel.brooks,daniel.brooks@MensahFinancialGroup.onmicrosoft.com,Branch Manager,Retail Banking,Downtown,Employee,US,teresa.alvarez@MensahFinancialGroup.onmicrosoft.com
+"Fischer, Naomi",Naomi,Fischer,naomi.fischer,naomi.fischer@MensahFinancialGroup.onmicrosoft.com,Branch Manager,Retail Banking,Westside,Employee,US,teresa.alvarez@MensahFinancialGroup.onmicrosoft.com
+"Tran, Kevin",Kevin,Tran,kevin.tran,kevin.tran@MensahFinancialGroup.onmicrosoft.com,Personal Banker,Retail Banking,Downtown,Employee,US,daniel.brooks@MensahFinancialGroup.onmicrosoft.com
+"Nwosu, Amara",Amara,Nwosu,amara.nwosu,amara.nwosu@MensahFinancialGroup.onmicrosoft.com,Personal Banker,Retail Banking,Downtown,Employee,US,daniel.brooks@MensahFinancialGroup.onmicrosoft.com
+"Herrera, Luis",Luis,Herrera,luis.herrera,luis.herrera@MensahFinancialGroup.onmicrosoft.com,Teller Supervisor,Retail Banking,Westside,Employee,US,naomi.fischer@MensahFinancialGroup.onmicrosoft.com
+"Kowalski, Hannah",Hannah,Kowalski,hannah.kowalski,hannah.kowalski@MensahFinancialGroup.onmicrosoft.com,Personal Banker,Retail Banking,Westside,Employee,US,naomi.fischer@MensahFinancialGroup.onmicrosoft.com
+"Simmons, Derek",Derek,Simmons,derek.simmons,derek.simmons@MensahFinancialGroup.onmicrosoft.com,Loan Officer,Retail Banking,Downtown,Employee,US,daniel.brooks@MensahFinancialGroup.onmicrosoft.com
+"Mendes, Sofia",Sofia,Mendes,sofia.mendes,sofia.mendes@MensahFinancialGroup.onmicrosoft.com,Loan Officer,Retail Banking,Westside,Employee,US,naomi.fischer@MensahFinancialGroup.onmicrosoft.com
+"Castellano, Richard",Richard,Castellano,richard.castellano,richard.castellano@MensahFinancialGroup.onmicrosoft.com,Director of Wealth Management,Wealth Management,Corporate,Employee,US,marcus.delaney@MensahFinancialGroup.onmicrosoft.com
+"Lindholm, Grace",Grace,Lindholm,grace.lindholm,grace.lindholm@MensahFinancialGroup.onmicrosoft.com,Senior Wealth Advisor,Wealth Management,Downtown,Employee,US,richard.castellano@MensahFinancialGroup.onmicrosoft.com
+"Haddad, Omar",Omar,Haddad,omar.haddad,omar.haddad@MensahFinancialGroup.onmicrosoft.com,Wealth Advisor,Wealth Management,Downtown,Employee,US,richard.castellano@MensahFinancialGroup.onmicrosoft.com
+"Nakamura, Beatrice",Beatrice,Nakamura,beatrice.nakamura,beatrice.nakamura@MensahFinancialGroup.onmicrosoft.com,Wealth Advisor,Wealth Management,Westside,Employee,US,richard.castellano@MensahFinancialGroup.onmicrosoft.com
+"Reinhardt, Tobias",Tobias,Reinhardt,tobias.reinhardt,tobias.reinhardt@MensahFinancialGroup.onmicrosoft.com,Portfolio Analyst,Wealth Management,Corporate,Contractor,US,richard.castellano@MensahFinancialGroup.onmicrosoft.com
+"Abernathy, Chloe",Chloe,Abernathy,chloe.abernathy,chloe.abernathy@MensahFinancialGroup.onmicrosoft.com,Client Services Associate,Wealth Management,Downtown,Employee,US,grace.lindholm@MensahFinancialGroup.onmicrosoft.com
+"Adeyemi, Samuel",Samuel,Adeyemi,samuel.adeyemi,samuel.adeyemi@MensahFinancialGroup.onmicrosoft.com,Estate Planning Specialist,Wealth Management,Westside,Employee,US,richard.castellano@MensahFinancialGroup.onmicrosoft.com
+"Ellison, Margaret",Margaret,Ellison,margaret.ellison,margaret.ellison@MensahFinancialGroup.onmicrosoft.com,Chief Compliance Officer,Compliance,Corporate,Employee,US,priya.raman@MensahFinancialGroup.onmicrosoft.com
+"Salazar, Victor",Victor,Salazar,victor.salazar,victor.salazar@MensahFinancialGroup.onmicrosoft.com,Compliance Analyst,Compliance,Corporate,Employee,US,margaret.ellison@MensahFinancialGroup.onmicrosoft.com
+"Tanaka, Yuki",Yuki,Tanaka,yuki.tanaka,yuki.tanaka@MensahFinancialGroup.onmicrosoft.com,BSA/AML Analyst,Compliance,Corporate,Employee,US,margaret.ellison@MensahFinancialGroup.onmicrosoft.com
+"Goldberg, Rachel",Rachel,Goldberg,rachel.goldberg,rachel.goldberg@MensahFinancialGroup.onmicrosoft.com,Internal Auditor,Compliance,Corporate,Employee,US,margaret.ellison@MensahFinancialGroup.onmicrosoft.com
+"Bellamy, Anthony",Anthony,Bellamy,anthony.bellamy,anthony.bellamy@MensahFinancialGroup.onmicrosoft.com,Risk Analyst,Compliance,Corporate,Employee,US,priya.raman@MensahFinancialGroup.onmicrosoft.com
+"Yusuf, Fatima",Fatima,Yusuf,fatima.yusuf,fatima.yusuf@MensahFinancialGroup.onmicrosoft.com,Regulatory Reporting Specialist,Compliance,Corporate,Employee,US,margaret.ellison@MensahFinancialGroup.onmicrosoft.com
+"Castillo, Raymond",Raymond,Castillo,raymond.castillo,raymond.castillo@MensahFinancialGroup.onmicrosoft.com,IT Director,IT,Corporate,Employee,US,jonathan.okafor@MensahFinancialGroup.onmicrosoft.com
+"Monroe, Alicia",Alicia,Monroe,alicia.monroe,alicia.monroe@MensahFinancialGroup.onmicrosoft.com,Systems Administrator,IT,Corporate,Employee,US,raymond.castillo@MensahFinancialGroup.onmicrosoft.com
+"Pike, Brandon",Brandon,Pike,brandon.pike,brandon.pike@MensahFinancialGroup.onmicrosoft.com,Network Engineer,IT,Corporate,Employee,US,raymond.castillo@MensahFinancialGroup.onmicrosoft.com
+"Osei, Janelle",Janelle,Osei,janelle.osei,janelle.osei@MensahFinancialGroup.onmicrosoft.com,Security Analyst,IT,Corporate,Employee,US,raymond.castillo@MensahFinancialGroup.onmicrosoft.com
+"Ngo, Tyler",Tyler,Ngo,tyler.ngo,tyler.ngo@MensahFinancialGroup.onmicrosoft.com,Helpdesk Technician,IT,Downtown,Employee,US,raymond.castillo@MensahFinancialGroup.onmicrosoft.com
+"Reyes, Monica",Monica,Reyes,monica.reyes,monica.reyes@MensahFinancialGroup.onmicrosoft.com,Helpdesk Technician,IT,Westside,Employee,US,raymond.castillo@MensahFinancialGroup.onmicrosoft.com
+"Pierce, Harold",Harold,Pierce,harold.pierce,harold.pierce@MensahFinancialGroup.onmicrosoft.com,Identity and Access Administrator,IT,Corporate,Employee,US,raymond.castillo@MensahFinancialGroup.onmicrosoft.com
+"Solheim, Ingrid",Ingrid,Solheim,ingrid.solheim,ingrid.solheim@MensahFinancialGroup.onmicrosoft.com,Database Administrator,IT,Corporate,Employee,US,alicia.monroe@MensahFinancialGroup.onmicrosoft.com
+"Mitchell, Dwayne",Dwayne,Mitchell,dwayne.mitchell,dwayne.mitchell@MensahFinancialGroup.onmicrosoft.com,IT Consultant,IT,Corporate,Contractor,US,raymond.castillo@MensahFinancialGroup.onmicrosoft.com
+"Greene, Patricia",Patricia,Greene,patricia.greene,patricia.greene@MensahFinancialGroup.onmicrosoft.com,HR Director,HR,Corporate,Employee,US,eleanor.whitfield@MensahFinancialGroup.onmicrosoft.com
+"Ibarra, Carlos",Carlos,Ibarra,carlos.ibarra,carlos.ibarra@MensahFinancialGroup.onmicrosoft.com,HR Generalist,HR,Corporate,Employee,US,patricia.greene@MensahFinancialGroup.onmicrosoft.com
+"Fontaine, Lena",Lena,Fontaine,lena.fontaine,lena.fontaine@MensahFinancialGroup.onmicrosoft.com,Recruiter,HR,Corporate,Contractor,US,patricia.greene@MensahFinancialGroup.onmicrosoft.com
+"Park, Wesley",Wesley,Park,wesley.park,wesley.park@MensahFinancialGroup.onmicrosoft.com,Payroll Specialist,HR,Corporate,Employee,US,patricia.greene@MensahFinancialGroup.onmicrosoft.com
+"Dube, Naledi",Naledi,Dube,naledi.dube,naledi.dube@MensahFinancialGroup.onmicrosoft.com,Benefits Coordinator,HR,Corporate,Employee,US,patricia.greene@MensahFinancialGroup.onmicrosoft.com
